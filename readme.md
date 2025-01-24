@@ -36,6 +36,7 @@ detecting reading ease, etc.
 ## Install
 
 This package is [ESM only][esm].
+
 In Node.js (version 14.14+, 16.0+), install with [npm][]:
 
 ```sh
@@ -75,6 +76,7 @@ syllable('Åland') // 2
 ## API
 
 This package exports the identifier `syllable`.
+
 There is no default export.
 
 ### `syllable(value)`
@@ -115,12 +117,15 @@ $ echo "syllable unicorn banana" | syllable
 ## Types
 
 This package is fully typed with [TypeScript][].
+
 It exports no additional types.
 
 ## Compatibility
 
 This package is at least compatible with all maintained versions of Node.js.
+
 As of now, that is Node.js 14.14+ and 16.0+.
+
 It also works in Deno and modern browsers.
 
 ## Related
@@ -169,6 +174,7 @@ It also works in Deno and modern browsers.
 ## Contribute
 
 Yes please!
+
 See [How to Contribute to Open Source][contribute].
 
 ## Security
