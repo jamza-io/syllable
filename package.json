@@ -1,6 +1,6 @@
 {
-  "name": "syllable",
-  "version": "5.0.1",
+  "name": "jamza-syllable",
+  "version": "5.0.2",
   "description": "Count syllables in English words",
   "license": "MIT",
   "keywords": [
@@ -12,7 +12,10 @@
     "bin"
   ],
   "homepage": "https://words.github.io/syllable/",
-  "repository": "words/syllable",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamza-io/syllable.git"
+  },
   "funding": {
     "type": "github",
     "url": "https://github.com/sponsors/wooorm"
