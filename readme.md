@@ -5,7 +5,7 @@
 [![Downloads][downloads-badge]][downloads]
 [![Size][size-badge]][size]
 
-Count syllables in an English word. Includes additional entries in `problematic.js`.
+Count syllables in an English word.  Includes additional entries in `problematic.js`.
 
 ## Contents
 
