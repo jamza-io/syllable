@@ -46,6 +46,7 @@ export const problematic = {
   discharged: 2,
   discharges: 2,
   dubiety: 4,
+  echoing: 3,
   enlarge: 2,
   enlarged: 2,
   enlarges: 2,
